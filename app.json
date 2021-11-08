@@ -38,7 +38,7 @@
             "required": false
         },
         "OWNER_ID": {
-            "description": "Your Bot Token From @MT_ID_Bot",
+            "description": "get your ID from @Sinzz_v1_AdminBot",
             "value": ""
         },
         "WELCOME_TEXT": {
