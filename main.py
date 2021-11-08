@@ -98,11 +98,11 @@ async def auto_welcome(bot: Pr0fess0r_99, msg: Message):
     id = msg.from_user.id
     group_name = msg.chat.title
     group_username = msg.chat.username
-    name_button = "🔰 JOIN NOW 🔰"
+    name_button = "🔰 JoIn NoW🔰"
     link_button = "t.me/sinzzbotz"
     button_name = os.environ.get("WELCOME_BUTTON_NAME", name_button)
     button_link = os.environ.get("WELCOME_BUTTON_LINK", link_button)
-    welcome_text = f"Hey {mention}\nWelcome To {group_name}"
+    welcome_text = f"Hello {first} {last} welcome to our <a href="t.me/{group_username}">{group_name}</a>"
     WELCOME_TEXT = os.environ.get("WELCOME_TEXT", welcome_text)
     print("Welcome Message Activate")
     BUTTON = bool(os.environ.get("WELCOME_BUTTON"))
