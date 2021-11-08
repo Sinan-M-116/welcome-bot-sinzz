@@ -1,49 +1,39 @@
-# Auto-Welcome-Bot
+# Welcome-Bot-sinzz
 
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/PR0FESS0R-99/Auto-Welcome-Bot/stargazers">
-    <img src="https://img.shields.io/github/stars/PR0FESS0R-99/Auto-Welcome-Bot?style=social">
-
-  </a>
   
-  <a href="https://github.com/PR0FESS0R-99/Auto-Welcome-Bot/fork">
-    <img src="https://img.shields.io/github/forks/PR0FESS0R-99/Auto-Welcome-Bot?label=Fork&style=social">
+![GitHub Repo stars](https://img.shields.io/github/stars/Sinan-M-116/Image-Editor?color=blue&style=flat)
+![GitHub forks](https://img.shields.io/github/forks/Sinan-M-116/Image-Editor?color=green&style=flat)
+![GitHub issues](https://img.shields.io/github/issues/Sinan-M-116/Image-Editor)
+![GitHub closed issues](https://img.shields.io/github/issues-closed/Sinan-M-116/Image-Editor)
+![GitHub pull requests](https://img.shields.io/github/issues-pr/Sinan-M-116/Image-Editor)
+![GitHub closed pull requests](https://img.shields.io/github/issues-pr-closed/Sinan-M-116/Image-Editor)
+![GitHub contributors](https://img.shields.io/github/contributors/Sinan-M-116/Image-Editor?style=flat)
+![GitHub repo size](https://img.shields.io/github/repo-size/Sinan-M-116/Image-Editor?color=red)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Sinan-M-116/Image-Editor)
+![GitHub](https://img.shields.io/github/license/Sinan-M-116/Image-Editor)
+[![Bot Updates](https://img.shields.io/badge/Image%20Editor-Updates%20Channel-green)](https://t.me/sinzzbotz)
+[![Bot Support](https://img.shields.io/badge/Image%20Editor-Support%20Group-blue)](https://t.me/sinzz_botz)
+[![Bot Support](https://img.shields.io/badge/Image%20Editor-support%20bot-red)](https://t.me/SINANzz_private_BOT)
 
-  </a>  
-</p>
-
-<img src="https://github.com/Mo-Tech-MRK-YT/Mo-Tech-MRK-YT/blob/main/gifs/Hi.gif" width="20px"> Hey [Mo Tech](https://Telegram.dog/Mo_Tech_Group),
-
-Iam Simple Auto Welcome Bot
-Jest Add Me to your Chat and See My Power
-
-[/admin](https://github.com/PR0FESS0R-99/Auto-Welcome-Bot/blob/dec040ea164fcbd7f6b3304e399acd8f9abd7486/main.py#L55) Bot Master Only
-
-Maintained By [Mo Tech](https://Telegram.dog/Mo_Tech_YT)
-
-----
-----
-
-### Demo Welcome Msg
-
-[❎️](https://telegra.ph/file/4ffc527ac9c2483e29b5c.mp4)
-
-----
-----
-### Deploy To Heroku👇
-
-<a href="https://heroku.com/deploy?template=https://github.com/PR0FESS0R-99/Auto-Welcome-Bot/tree/main"><img src="https://i.ibb.co/tsq26Pz/PR0-FESS0-R-99.gif" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+### Deploy to Heroku
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sinan-m-116/Image-Editor) the
 
 
-### Deploy To Railway
+# Configs
 
-<a href="https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FPR0FESS0R-99%2FAuto-Welcome-Bot&envs=API_ID%2CAPI_HASH%2CAPP_NAME%2CBOT_TOKEN%2CHOSTED%2COWNER_ID%2CWELCOME_TEXT%2CWELCOME_BUTTON%2CWELCOME_BUTTON_LINK%2CWELCOME_BUTTON_NAME&optionalEnvs=APP_NAME%2CHOSTED%2CWELCOME_TEXT%2CWELCOME_BUTTON%2CWELCOME_BUTTON_LINK%2CWELCOME_BUTTON_NAME&API_IDDesc=Your+APP_ID+From+https%3A%2F%2Fyoutu.be%2F5eEsvLAKVc0+or+%40MT_MyTelegramOrg_Bot&API_HASHDesc=Your+APP_HASH+From+https%3A%2F%2Fyoutu.be%2F5eEsvLAKVc0+or+%40MT_MyTelegramOrg_Bot&APP_NAMEDesc=Railway+App+Name&BOT_TOKENDesc=Your+Bot+Token+From+%40BotFather&HOSTEDDesc=Check+readme.md+file+for+more+details+%28true%29&OWNER_IDDesc=Your+Bot+Token+From+%40MT_ID_Bot&WELCOME_TEXTDesc=Set+Your+Welcome+Text+More+Information+Check+Out+Readme.md&WELCOME_BUTTONDesc=Check+readme.md+file+for+more+details+%28true%29&WELCOME_BUTTON_LINKDesc=give+your+%5Bprivate+or+Public%5D+Channel+or+Group+Link+%7C%7C+you+must+use+https%3A%2F%2Ft.me+or+t.me+Dont+use+%40&WELCOME_BUTTON_NAMEDesc=Give+the+button+a+name+%28eg%3A-JOIN+NOW%29&referralCode=sinzzbotz"><img src="https://i.ibb.co/tsq26Pz/PR0-FESS0-R-99.gif" alt="PR0FESS0R-99" border="0" height="125" width="200" align="center" /></a>
+* TG_BOT_TOKEN - Get bot token from @BotFather
+* APP_ID      - From my.telegram.org 
+* API_HASH    - From my.telegram.org 
+* RemoveBG_API - From RemoveBG
+
+# CREDIT 
+
+<a href="https://t.me/SinzzBotzz"><img src="https://img.shields.io/badge/creater-2cb6e0?style=for-the-badge&logo=telegram&logoColor=green"></a> | <a href="https://t.me/Pythone_3"><img src="https://img.shields.io/badge/creater-2cb6e0?style=for-the-badge&logo=telegram&logoColor=yellow"></a> | <a href="https://t.me/shiastudent"><img src="https://img.shields.io/badge/creater-2cb6e0?style=for-the-badge&logo=telegram&logoColor=green"></a>
 
 
+<a href="https://GitHub.com/sinan-m-116"><img src="https://img.shields.io/badge/GitHube-2cb6e0?style=for-the-badge&logo=GitHub&logoColor=yellow"></a> | <a href="https://GitHub.com/sinan-m-coder"><img src="https://img.shields.io/badge/GitHube-2cb6e0?style=for-the-badge&logo=GitHub&logoColor=yellow"></a>
 
-----
+
 ----
 #### How To Set Welcome Message
 * User
@@ -117,12 +107,3 @@ Eg :- `👋Hy {first}`
 
 ----
 ----
-
-#### Credits
-
-[Pyrogram](https://github.com/pyrogram/pyrogram)
-
-[Muhammed Rk](https://github.com/PR0FESS0R-99/Auto-Welcome-Bot)
-
-
-
