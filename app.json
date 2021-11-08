@@ -1,7 +1,7 @@
 {
     "name": "Auto Welcome Bot",
-    "description": "iam Id Bot @MRK_YT",
-    "logo": "https://telegra.ph/file/c4a3eea0c20318b6d88b6.jpg",
+    "description": "i am welcome bot by sinzzbotz",
+    "logo": "https://te.legra.ph/file/435222c55fe6da9c9e960.png",
     "keywords": [
         "Telegram",
         "Custom",
@@ -10,22 +10,22 @@
         "Welcome", 
         "Bot"
     ],
-    "website": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
-    "repository": "https://github.com/PR0FESS0R-99/Auto-Welcome-Bot",
-    "success_url": "https://youtube.com/channel/UCmGBpXoM-OEm-FacOccVKgQ",
+    "website": "https://t.me/SinzzBotz",
+    "repository": "https://github.com/sinan-m-116/Welcome-Bot-sinzz",
+    "success_url": "https://t.me/SinzzBotz",
     "stack": "container",
     "env": {
         "API_ID": {
-            "description": "Your APP_ID From https://youtu.be/5eEsvLAKVc0 or @MT_MyTelegramOrg_Bot",
+            "description": "Your APP_ID From My.Telegram.Org",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API_Hash From https://youtu.be/5eEsvLAKVc0 or @MT_MyTelegramOrg_Bot",
+            "description": "Your API_Hash From My.Telegram.Org",
             "value": ""
         },
         "APP_NAME": {
             "description": "Enter Heroku App Name",
-            "value": "autowelcomebot",
+            "value": "welcomebot",
             "required": false
         },
         "BOT_TOKEN": {
