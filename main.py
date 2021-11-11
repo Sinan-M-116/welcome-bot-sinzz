@@ -44,7 +44,7 @@ async def admin(bot: Pr0fess0r_99, update):
     # Heroku Support
     user = "👋Hey {}, \n You are not the deploy of this bot"
     run = "SinzzBotz" # https://github.com/sinan-m-116/Welcome-Bot-sinzz
-    api_key = os.environ.get("APP_NAME", "AutoWelcomeBot")
+    api_key = os.environ.get("APP_NAME", "welcome-bot-sinzz" )
     DEPLOY = bool(os.environ.get("HOSTED"))
     OWNER_ID = set(int(x) for x in os.environ.get("OWNER_ID", "").split())
     if not DEPLOY:
@@ -78,7 +78,7 @@ async def admin(bot: Pr0fess0r_99, update):
             [
                 InlineKeyboardButton
                     (
-                        "💫 DEPLOY NOW 💫", url=f"https://t.me/{run}/10"
+                        "💫 DEPLOY NOW 💫", url=f"https://t.me/sinzzbotz/10"
                     )
             ]
         ]
