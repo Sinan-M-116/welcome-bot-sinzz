@@ -19,11 +19,11 @@ async def start(client: Pr0fess0r_99, update):
             [
                 InlineKeyboardButton
                     (
-                         "🤖More Bots", url="t.me/SinzzBotz/10"
+                         "🤖More Bots", url="t.me/SinzzBotz/12"
                     ),
                 InlineKeyboardButton
                     (
-                         "🎉 Open Source", url="https://t.me/{link}" # sinan-m-116/Welcome-Bot-sinzz
+                         "🎉 Open Source", url="https://t.me/sinzzbotz/12" # sinan-m-116/Welcome-Bot-sinzz
                     )
             ],   
             [
