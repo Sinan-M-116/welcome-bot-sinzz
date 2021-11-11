@@ -16,7 +16,10 @@
 [![Bot Support](https://img.shields.io/badge/welcome_bot_sinzz-support%20bot-red)](https://t.me/SINANzz_private_BOT)
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sinan-m-116/Image-Editor) the
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/sinan-m-116/Image-Editor) 
+
+### deploy to railway 🚆
+<p><a href="https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2Fsinan-m-116%2FWelcome-Bot-sinzz&envs=API_ID%2CAPI_HASH%2CAPP_NAME%2CBOT_TOKEN%2CHOSTED%2COWNER_ID%2CWELCOME_TEXT%2CWELCOME_BUTTON%2CWELCOME_BUTTON_LINK%2CWELCOME_BUTTON_NAME&optionalEnvs=APP_NAME%2CHOSTED%2CWELCOME_TEXT%2CWELCOME_BUTTON%2CWELCOME_BUTTON_LINK%2CWELCOME_BUTTON_NAME&API_IDDesc=Your+APP_ID+From+MyTelegramOrg&API_HASHDesc=Your+APP_HASH+From+My.Telegram.Org&APP_NAMEDesc=Railway+App+Name&BOT_TOKENDesc=Your+Bot+Token+From+%40BotFather&HOSTEDDesc=Check+readme.md+file+for+more+details+%28true%29&OWNER_IDDesc=what+is+the+I'd+&WELCOME_TEXTDesc=Set+Your+Welcome+Text+More+Information+Check+Out+Readme.md&WELCOME_BUTTONDesc=Check+readme.md+file+for+more+details+%28true%29&WELCOME_BUTTON_LINKDesc=give+your+%5Bprivate+or+Public%5D+Channel+or+Group+Link+%7C%7C+you+must+use+https%3A%2F%2Ft.me+or+t.me+But+Dont+use+%40&WELCOME_BUTTON_NAMEDesc=Give+the+button+a+name+%28eg%3A-JOIN+NOW%29&referralCode=sinzzbotz"><img src="https://img.shields.io/badge/Deploy%20To%20railway-redgreen?style=for-the-badge&logo=railway" width="200""/></a></p>
 
 
 # Configs
